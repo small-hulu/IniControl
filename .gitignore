@@ -6,7 +6,6 @@
 *.la
 *.lai
 *.so
-*.ini
 *.so.*
 *.dll
 *.dylib
