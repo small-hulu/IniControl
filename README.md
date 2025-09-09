@@ -19,7 +19,7 @@
 [SVersion]
 equipment_=PMDT9810
 version_=V1.0.1.0 2025-10-10
-changelog=测试ini实例无理要求
+changelog_=测试ini实例无理要求
 software_type=通用
 
 
