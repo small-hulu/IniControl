@@ -14,8 +14,9 @@
   
 ## system_version.ini 文件示例
 
-system_version.ini` 文件示例如下：
+`system_version.ini` 文件示例如下：
 
+```ini
 [SVersion]
 equipment_=PMDT9810
 version_=V1.0.1.0 2025-10-10
