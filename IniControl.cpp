@@ -26,7 +26,7 @@ IniControl::IniControl() {
         smap[KI::version_] = "V1.0.1.0 2025-9-9";
         smap[KI::equipment_] = "PMDT9810";
         smap[KI::software_type] = "通用";
-        smap[KI::changelog] = "测试ini实例";
+        smap[KI::changelog_] = "测试ini实例";
         for (auto it = smap.begin(); it != smap.end(); it += 1) {
             auto key  = it.key();
             auto data = it.value();

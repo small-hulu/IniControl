@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
     using namespace CONTROLLER;
     auto&& ini = IniControl::instance();
     QString sys_version = ini[KI::version_].toString();
-    QString info = ini[KI::changelog].toString();
+    QString info = ini[KI::changelog_].toString();
 
     //显示
     QWidget window;
