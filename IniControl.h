@@ -18,7 +18,7 @@ const QString SVersion    = "SVersion";
 const QString version_ = SVersion + QString("/version_");
 const QString equipment_ = SVersion + QString("/equipment_");
 const QString software_type = SVersion + QString("/software_type");
-const QString changelog = SVersion + QString("/changelog");
+const QString changelog_ = SVersion + QString("/changelog_");
 
 }
 
